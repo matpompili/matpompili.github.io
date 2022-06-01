@@ -6,17 +6,17 @@ title: 'Realization of a multinode quantum network of remote solid-state qubits'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - S. L. N. Hermans  
-  - S. Baier  
-  - H. K. C. Beukers  
-  - P. C. Humphreys  
-  - R. N. Schouten  
-  - R. F. L. Vermeulen  
-  - M. J. Tiggelman  
-  - L. dos Santos Martins  
-  - B. Dirkse  
-  - S. Wehner  
-  - R. Hanson 
+  - Sophie L. N. Hermans  
+  - Simon Baier  
+  - Hans K. C. Beukers  
+  - Peter C. Humphreys  
+  - Raymond N. Schouten  
+  - Raymond F. L. Vermeulen  
+  - Marijn J. Tiggelman  
+  - Laura dos Santos Martins  
+  - Bas Dirkse  
+  - Stephanie Wehner  
+  - Ronald Hanson 
 
 # Author notes (optional)
 author_notes:

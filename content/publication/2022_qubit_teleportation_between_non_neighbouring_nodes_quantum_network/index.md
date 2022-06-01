@@ -5,12 +5,12 @@ title: 'Qubit teleportation between non-neighbouring nodes in a quantum network'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - S. L. N. Hermans  
+  - Sophie L. N. Hermans  
   - admin
-  - H. K. C. Beukers  
-  - S. Baier  
-  - J. Borregaard
-  - R. Hanson 
+  - Hans K. C. Beukers  
+  - Simon Baier  
+  - Johannes Borregaard
+  - Ronald Hanson 
 
 # Author notes (optional)
 author_notes:
