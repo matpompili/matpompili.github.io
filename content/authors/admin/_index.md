@@ -72,6 +72,6 @@ highlight_name: true
 
 I am a Postdoctoral Researcher in Hannes Bernien's group at the Pritzker School of Molecular Engineering, University of Chicago. 
 We are developing quantum network nodes using neutral atoms and nanophotonic cavities.
-Previously, I obtained my PhD in the group of Prof. Ronald Hanson, realising the world's first entanglement based quantum network.
+Previously, I obtained my PhD in the group of Prof. Ronald Hanson, realising the world's first entanglement-based quantum network.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
