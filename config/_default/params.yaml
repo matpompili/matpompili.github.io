@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Matteo Pompili'
+    description: 'Personal Website. Experimental quantum physicist. Software developer.'
+    twitter: 'dr_matteo_laser'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-MH195ET3NB'
     baidu_tongji: ''
   verification:
     google: ''
@@ -63,7 +63,6 @@ features:
   syntax_highlighter:
     enable: true
     extra_languages:
-      - r
       - latex
   math:
     enable: false
