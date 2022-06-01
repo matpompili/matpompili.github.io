@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Researcher
     company: Pritzker School of Molecular Engineering, University of Chicago
     company_url: 'https://pme.uchicago.edu/'
-    # company_logo: org-pme.jpg
+    company_logo: org-pme
     location: Chicago, IL, USA
     date_start: '2022-03-01'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Postdoctoral Researcher
     company: QuTech, Delft University of Technology
     company_url: 'https://qutech.nl/'
-    # company_logo: org-qutech.jpg
+    company_logo: org-qutech
     location: Delft, The Netherlands
     date_start: '2021-11-01'
     date_end: '2022-02-28'
@@ -45,8 +45,7 @@ experience:
   - title: PhD Candidate
     company: QuTech, Delft University of Technology
     company_url: 'https://qutech.nl/'
-    # company_logo: org-qutech.jpg
-    location: California
+    company_logo: org-qutech
     location: Delft, The Netherlands
     date_start: '2017-11-20'
     date_end: '2021-12-15'
