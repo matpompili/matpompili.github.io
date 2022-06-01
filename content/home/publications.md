@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'See [all publications](./publication/) instead.'
 
 content:
   # Filter on criteria
@@ -35,7 +35,3 @@ design:
   view: citation
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}

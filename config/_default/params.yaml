@@ -7,9 +7,9 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
+  # theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -35,7 +35,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -43,11 +43,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Matteo Pompili. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -70,9 +70,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/matpompili/matpompili.github.io'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -98,14 +98,14 @@ features:
 # Extensions
 
 extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
+  # cms:
+  #   branch: main
+  #   local_backend: false
+  # academicons:
+  #   enable: true
 
 # Security
 
 security:
   # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+  allow_frame: false
