@@ -6,7 +6,7 @@ title: Matteo Pompili
 superuser: true
 
 # Role/position/tagline
-role: Postodoctoral Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
