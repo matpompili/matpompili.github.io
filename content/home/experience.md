@@ -29,7 +29,8 @@ experience:
     location: Chicago, IL, USA
     date_start: '2022-03-01'
     date_end: ''
-    description: In the group of Prof. Hannes Bernien I am developing a quantum network node that operates at telecom wavelength based on neutral atoms and nanophotonic cavities.
+    description: >-
+      In the group of Prof. Hannes Bernien, I am developing a quantum network node that operates at telecom wavelength based on neutral atoms and nanophotonic cavities.
 
   - title: Postdoctoral Researcher
     company: QuTech, Delft University of Technology
@@ -38,9 +39,9 @@ experience:
     location: Delft, The Netherlands
     date_start: '2021-11-01'
     date_end: '2022-02-28'
-    description: |2-
-        - In the group of Prof. Ronald Hanson I improved the capabilities of the physical layer of our quantum network stack to control multiple qubits, as well as upgraded one of the NV center quantum network nodes for future experiments. 
-        - Additionally, I led initial efforts for collaborations with quantum start-ups for custom hardware and software development.
+    description: >-
+      In the group of Prof. Ronald Hanson, I improved the capabilities of the physical layer of our quantum network stack to control multiple qubits, as well as upgraded one of the NV center quantum network nodes for future experiments. 
+      Additionally, I led initial efforts for collaborations with quantum start-ups for custom hardware and software development.
 
   - title: PhD Candidate
     company: QuTech, Delft University of Technology
@@ -49,10 +50,10 @@ experience:
     location: Delft, The Netherlands
     date_start: '2017-11-20'
     date_end: '2021-12-15'
-    description: |2-
-        - Under the supervision of Prof. Ronald Hanson, I realized the world’s first multi-node quantum network and demonstrated the delivery of entanglement using a platform-independent quantum network stack.
-        - I was one of the 15 Early Stage Researchers in the Spin-NANO European Innovative Training Network funded by the Marie Skłodowska-Curie Actions.
-        - I supervised MSc and BSc students in their final projects in the Hanson group.
+    description: >-
+        Under the supervision of Prof. Ronald Hanson, I realized the world’s first multi-node quantum network and demonstrated the delivery of entanglement using a platform-independent quantum network stack.
+        I was one of the 15 Early Stage Researchers in the Spin-NANO European Innovative Training Network funded by the Marie Skłodowska-Curie Actions.
+        I supervised MSc and BSc students in their final projects in the Hanson group.
 
 design:
   columns: '2'

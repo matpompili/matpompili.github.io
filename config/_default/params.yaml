@@ -61,9 +61,9 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
-    extra_languages:
-      - latex
+    enable: false
+    # extra_languages:
+      # - latex
   math:
     enable: false
   privacy_pack:
