@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Matteo Pompili
+private: true
+
 
 # Is this the primary user of the site?
 superuser: true
