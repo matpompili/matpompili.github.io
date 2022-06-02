@@ -62,9 +62,6 @@ design:
   columns: '2'
 ---
 
-
-Total number of pages: {{ len .Site.RegularPages }}
-
 <div class="mb-3">
   <form name="contact" action="https://formsubmit.co/f6c1f90b5a805f0315b052fae454403f "  method="POST">
     <div class="form-group form-inline">
