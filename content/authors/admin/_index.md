@@ -21,8 +21,8 @@ bio: I am an experimental physicist and a software developer. My research focuse
 # Interests to show in About widget
 interests:
   - Quantum Networks
-  - Quantum Computing
   - Experimental Control and Automation
+  - Quantum Computing
 
 # Education to show in About widget
 education:
@@ -72,8 +72,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher in Hannes Bernien's group at the Pritzker School of Molecular Engineering, University of Chicago. 
+I am a Postdoctoral Researcher in {{< staticref "http://bernienlab.com/" "newtab" >}}Hannes Bernien's group{{< /staticref >}} at the {{< staticref "https://pme.uchicago.edu/" "newtab" >}}Pritzker School of Molecular Engineering{{< /staticref >}}, University of Chicago. 
 We are developing quantum network nodes using neutral atoms and nanophotonic cavities.
-Previously, I obtained my PhD in the group of Prof. Ronald Hanson, realising the world's first entanglement-based quantum network.
+Previously, I obtained my PhD in the {{< staticref "https://qutech.nl/lab/hanson-lab/" "newtab" >}}group of Prof. Ronald Hanson{{< /staticref >}}, realising the world's first entanglement-based quantum network.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
