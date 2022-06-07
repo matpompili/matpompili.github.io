@@ -30,10 +30,10 @@ education:
     - course: PhD in Quantum Information
       institution: Delft University of Technology
       year: 2021
-    - course: MSc in Condesed Matter Physics
+    - course: M.Sc. in Condensed Matter Physics
       institution: La Sapienza, University of Rome
       year: 2017
-    - course: BSc in Physics
+    - course: B.Sc. in Physics
       institution: La Sapienza, University of Rome
       year: 2015
 
