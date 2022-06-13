@@ -3,12 +3,11 @@
 title: Matteo Pompili
 private: true
 
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher. Quantum Physicist and Software Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,7 +15,7 @@ organizations:
     url: https://pme.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an experimental physicist and a software developer. My research focuses on quantum computer networks.
+bio: I am an experimental physicist and a software developer. My research focuses on quantum computer networks. I am currently a postdoctoral researcher at the Pritzker School of Molecular Engineering, University of Chicago. During my PhD I built the first multinode quantum network, and demonstrated entanglement delivery using a quantum network stack.
 
 # Interests to show in About widget
 interests:

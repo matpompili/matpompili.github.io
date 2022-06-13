@@ -5,12 +5,12 @@ title: 'Qubit teleportation between non-neighbouring nodes in a quantum network'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Sophie L. N. Hermans  
+  - Sophie L. N. Hermans
   - admin
-  - Hans K. C. Beukers  
-  - Simon Baier  
+  - Hans K. C. Beukers
+  - Simon Baier
   - Johannes Borregaard
-  - Ronald Hanson 
+  - Ronald Hanson
 
 # Author notes (optional)
 author_notes:
@@ -45,11 +45,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 # - name: Online
 #   url: 'https://doi.org/10.1038/s41586-022-04697-y'
-# - name: Media coverage
-#   url: 'https://qutech.nl/lab/hanson-lab/research-highlights/quantum-teleportation-across-a-network/'
+- name: Media coverage
+  url: '/post/teleportation_in_the_news/'
 
 url_pdf: 'https://www.nature.com/articles/s41586-022-04697-y.pdf'
 url_code: 'https://doi.org/10.4121/16645969'
