@@ -1,0 +1,9 @@
+{{/* Author profile box */}}
+
+{{/* Don't show author box on normal pages or if author box disabled. */}}
+{{ if ne .Type "page" | and (not (or (eq site.Params.profile false) (eq .Params.profile false))) }}
+
+    {{ $author_page := site.GetPage (printf "/%s/%s" "authors" (.Scratch.Get "superuser_username")) }}
+    {{ partial "page_author_card" (dict "author_page" $author_page) }}
+
+{{end}}{{/* Show profile block */}}
