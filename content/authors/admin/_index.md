@@ -7,7 +7,7 @@ private: true
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher. Quantum Physicist and Software Developer
+role: Postdoctoral Researcher. Experimental Quantum Physicist, Research Software Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,7 +15,7 @@ organizations:
     url: https://pme.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an experimental physicist and a software developer. My research focuses on quantum computer networks. I am currently a postdoctoral researcher at the Pritzker School of Molecular Engineering, University of Chicago. During my PhD I built the first multinode quantum network, and demonstrated entanglement delivery using a quantum network stack.
+bio: I am an experimental quantum physicist and a research software developer. My research focuses on quantum computer networks. I am currently a postdoctoral researcher at the Pritzker School of Molecular Engineering, University of Chicago. During my PhD I built the first multinode quantum network, and demonstrated entanglement delivery using a quantum network stack.
 
 # Interests to show in About widget
 interests:
@@ -71,8 +71,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher in {{< staticref "http://bernienlab.com/" "newtab" >}}Hannes Bernien's group{{< /staticref >}} at the {{< staticref "https://pme.uchicago.edu/" "newtab" >}}Pritzker School of Molecular Engineering{{< /staticref >}}, University of Chicago. 
+I am an **Experimental Quantum Physicist** and a **Research Software Developer**. My research focuses on quantum computer networks.
+Currently, I am a Postdoctoral Researcher in {{< staticref "http://bernienlab.com/" "newtab" >}}Hannes Bernien's group{{< /staticref >}} at the {{< staticref "https://pme.uchicago.edu/" "newtab" >}}Pritzker School of Molecular Engineering{{< /staticref >}}, University of Chicago. 
 We are developing quantum network nodes using neutral atoms and nanophotonic cavities.
-Previously, I obtained my PhD in the {{< staticref "https://qutech.nl/lab/hanson-lab/" "newtab" >}}group of Prof. Ronald Hanson{{< /staticref >}}, realising the world's first entanglement-based quantum network.
+Previously, I obtained my PhD in the {{< staticref "https://qutech.nl/lab/hanson-lab/" "newtab" >}}group of Prof. Ronald Hanson{{< /staticref >}}, realizing the world's first entanglement-based quantum network.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
