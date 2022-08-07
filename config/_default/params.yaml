@@ -61,7 +61,7 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     # extra_languages:
       # - latex
   math:
