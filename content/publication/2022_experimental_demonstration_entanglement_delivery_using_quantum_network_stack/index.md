@@ -24,21 +24,20 @@ author_notes:
   - 'These authors contributed equally'
   - 'These authors contributed equally'
 
-date: '2021-11-22T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2111.11332'
+date: '2022-10-15T00:00:00Z'
+doi: 'https://doi.org/10.1038/s41534-022-00631-2'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-11-22T00:00:00Z'
+publishDate: '2022-10-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv
-publication_short: arXiv
+publication: npj Quantum Information
 
 abstract: >-
   Scaling current quantum communication demonstrations to a large-scale quantum network will require not only advancements in quantum hardware capabilities, but also robust control of such devices to bridge the gap to user demand. Moreover, the abstraction of tasks and services offered by the quantum network should enable platform-independent applications to be executed without knowledge of the underlying physical implementation. Here we experimentally demonstrate, using remote solid-state quantum network nodes, a link layer and a physical layer protocol for entanglement-based quantum networks. The link layer abstracts the physical-layer entanglement attempts into a robust, platform-independent entanglement delivery service. The system is used to run full state tomography of the delivered entangled states, as well as preparation of a remote qubit state on a server by its client. Our results mark a clear transition from physics experiments to quantum communication systems, which will enable the development and testing of components of future quantum networks.
@@ -56,7 +55,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2111.11332'
+url_pdf: 'https://www.nature.com/articles/s41534-022-00631-2.pdf'
 url_code: 'https://doi.org/10.4121/16912522.v1'
 url_dataset: 'https://doi.org/10.4121/16912522.v1'
 # url_poster: ''
