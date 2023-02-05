@@ -25,7 +25,7 @@ author_notes:
   - 'These authors contributed equally'
 
 date: '2022-10-15T00:00:00Z'
-doi: 'https://doi.org/10.1038/s41534-022-00631-2'
+doi: '10.1038/s41534-022-00631-2'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-10-15T00:00:00Z'

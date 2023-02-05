@@ -25,7 +25,7 @@ author_notes:
   - 'These authors contributed equally'
 
 date: '2021-04-16T00:00:00Z'
-doi: 'https://doi.org/10.1126/science.abg1919'
+doi: '10.1126/science.abg1919'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-04-16T00:00:00Z'

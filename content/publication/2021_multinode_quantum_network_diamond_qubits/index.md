@@ -13,7 +13,7 @@ authors:
 #   - 'These authors contributed equally'
 
 date: '2021-12-15T00:00:00Z'
-doi: 'https://doi.org/10.4233/uuid:b125ec2d-e2af-4708-bccc-0a2357a533b1'
+doi: '10.4233/uuid:b125ec2d-e2af-4708-bccc-0a2357a533b1'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-12-15T00:00:00Z'
