@@ -22,15 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Scientist
+    company: '👀 TBA'
+    location: San Francisco, CA, USA
+    date_start: '2023-05-15'
+    date_end: '2024-05-14'
+
   - title: Postdoctoral Researcher
     company: Pritzker School of Molecular Engineering, University of Chicago
     company_url: 'https://pme.uchicago.edu/'
     company_logo: org-pme
     location: Chicago, IL, USA
     date_start: '2022-03-01'
-    date_end: ''
+    date_end: '2023-02-28'
     description: >-
-      In the group of Prof. Hannes Bernien, I am developing a quantum network node that operates at telecom wavelength based on neutral atoms and nanophotonic cavities.
+      In the group of Prof. Hannes Bernien, I worked on a quantum network node that operates at telecom wavelength based on neutral atoms and nanophotonic cavities. I have developed several open-source software packages for experimental control, which can be found in the [Projects](#projects) section.
 
   - title: Postdoctoral Researcher
     company: QuTech, Delft University of Technology
