@@ -23,10 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Scientist
-    company: '👀 TBA'
+    company: 'Amazon Web Services'
+    company_url: 'https://aws.amazon.com/blogs/quantum-computing/'
+    company_logo: org-aws
     location: San Francisco, CA, USA
     date_start: '2023-05-15'
-    date_end: '2024-05-14'
+    description: >-
+      The AWS Center for Quantum Networking develops new hardware, software, and applications for quantum networks.
 
   - title: Postdoctoral Researcher
     company: Pritzker School of Molecular Engineering, University of Chicago
