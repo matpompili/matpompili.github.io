@@ -7,15 +7,15 @@ private: true
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher. Experimental Quantum Physicist, Research Software Developer
+role: Amazon Postdoctoral Scientist. Experimental Quantum Physicist, Research Software Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Pritzker School of Molecular Engineering, University of Chicago
-    url: https://pme.uchicago.edu/
+  - name: Amazon Web Services, Center for Quantum Networking
+    url: https://aws.amazon.com/blogs/quantum-computing/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an experimental quantum physicist and a research software developer. My research focuses on quantum computer networks. I am currently a postdoctoral researcher at the Pritzker School of Molecular Engineering, University of Chicago. During my PhD I built the first multinode quantum network, and demonstrated entanglement delivery using a quantum network stack.
+bio: I am an experimental quantum physicist and a research software developer. My research focuses on quantum networks. I am currently a postdoctoral scientist at the AWS Center for Quantum Networking. During my PhD I built the first multinode quantum network, and demonstrated entanglement delivery using a quantum network stack.
 
 # Interests to show in About widget
 interests:
@@ -72,8 +72,8 @@ highlight_name: true
 ---
 
 I am an **Experimental Quantum Physicist** and a **Research Software Developer**. My research focuses on quantum computer networks.
-Currently, I am a Postdoctoral Researcher in {{< staticref "http://bernienlab.com/" "newtab" >}}Hannes Bernien's group{{< /staticref >}} at the {{< staticref "https://pme.uchicago.edu/" "newtab" >}}Pritzker School of Molecular Engineering{{< /staticref >}}, University of Chicago. 
-We are developing quantum network nodes using neutral atoms and nanophotonic cavities.
+Currently, I am a Postdoctoral Scientist at the {{< staticref "https://aws.amazon.com/blogs/quantum-computing/" "newtab" >}}AWS Center for Quantum Networking{{< /staticref >}}. 
+We are developing new hardware, software, and applications for quantum networks.
 Previously, I obtained my PhD in the {{< staticref "https://qutech.nl/lab/hanson-lab/" "newtab" >}}group of Prof. Ronald Hanson{{< /staticref >}}, realizing the world's first entanglement-based quantum network.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
